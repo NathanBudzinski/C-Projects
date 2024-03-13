@@ -1,0 +1,14 @@
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\obj\Debug\net8.0\fibonacci_dynamic_programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\obj\Debug\net8.0\fibonacci_dynamic_programming.AssemblyInfoInputs.cache
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\obj\Debug\net8.0\fibonacci_dynamic_programming.AssemblyInfo.cs
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\obj\Debug\net8.0\fibonacci_dynamic_programming.csproj.CoreCompileInputs.cache
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\bin\Debug\net8.0\fibonacci_dynamic_programming.exe
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\bin\Debug\net8.0\fibonacci_dynamic_programming.deps.json
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\bin\Debug\net8.0\fibonacci_dynamic_programming.runtimeconfig.json
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\bin\Debug\net8.0\fibonacci_dynamic_programming.dll
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\bin\Debug\net8.0\fibonacci_dynamic_programming.pdb
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\obj\Debug\net8.0\fibonacci_dynamic_programming.dll
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\obj\Debug\net8.0\refint\fibonacci_dynamic_programming.dll
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\obj\Debug\net8.0\fibonacci_dynamic_programming.pdb
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\obj\Debug\net8.0\fibonacci_dynamic_programming.genruntimeconfig.cache
+C:\Users\nateb\Documents\Coding Portfolio\fibonacci_dynamic_programming\fibonacci_dynamic_programming\obj\Debug\net8.0\ref\fibonacci_dynamic_programming.dll
