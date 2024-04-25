@@ -4,6 +4,8 @@ class Fib
 
     public static double Fibonacci(double n)
     {
+        if (n == 1) return 1;
+        if (n == 2) return 1;
         double[] M = new double[(int)n];
         return Fibonacci_Recursive(n-1, M) + Fibonacci_Recursive(n-2, M);
     }
@@ -20,7 +22,7 @@ class Fib
     public static void Main()
     {
         Console.WriteLine("Calculate Fibonacci number: ");
-        double fib = Convert.ToInt32(Console.ReadLine());
+        double fib = Convert.ToDouble(Console.ReadLine());
         double result = Fibonacci(fib);
         Console.WriteLine("The Fibonacci number F(" +  fib + ") = " + result);
     }
