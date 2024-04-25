@@ -2,17 +2,17 @@
 class Fib
 {
 
-    public static int Fibonacci(int n)
+    public static double Fibonacci(double n)
     {
-        int[] M = new int[n];
+        double[] M = new double[(int)n];
         return Fibonacci_Recursive(n-1, M) + Fibonacci_Recursive(n-2, M);
     }
 
-    public static int Fibonacci_Recursive(int n, int[] M)
+    public static double Fibonacci_Recursive(double n, double[] M)
     {
-        if (M[n] > 0) return M[n];
+        if (M[(int)n] > 0) return M[(int)n];
         if (n == 1 || n == 2) return 1;
-        return M[n] = Fibonacci_Recursive(n - 1, M) + Fibonacci_Recursive(n - 2, M);
+        return M[(int)n] = Fibonacci_Recursive(n - 1, M) + Fibonacci_Recursive(n - 2, M);
     }
 
 
@@ -20,8 +20,8 @@ class Fib
     public static void Main()
     {
         Console.WriteLine("Calculate Fibonacci number: ");
-        int fib = Convert.ToInt32(Console.ReadLine());
-        int result = Fibonacci(fib);
+        double fib = Convert.ToInt32(Console.ReadLine());
+        double result = Fibonacci(fib);
         Console.WriteLine("The Fibonacci number F(" +  fib + ") = " + result);
     }
 }
