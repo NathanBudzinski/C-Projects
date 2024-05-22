@@ -1,1 +1,1 @@
-Python, Java, C++, and C# projects.
+A short collection of C++ and C# projects. 
