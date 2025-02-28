@@ -1,0 +1,43 @@
+# Silicon Labs Project Configuration Tools: slcp, v0, Component selection file.
+project_name: SpectrAn
+label: SpectrAn
+description: |
+  This example project shows an empty configuration that can be used as a starting point to add components and functionality.
+category: Example|Platform
+filter:
+- name: Device Type
+  value: [SoC]
+- name: MCU
+  value: [32-bit MCU]
+- name: Project Difficulty
+  value: [Beginner]
+package: platform
+quality: production
+source:
+- {path: app.c}
+- {path: main.c}
+include:
+- path: .
+  file_list:
+  - {path: app.h}
+sdk: {id: gecko_sdk, version: 4.3.2}
+toolchain_settings: []
+component:
+- {id: EFR32BG22C224F512IM40}
+- {id: brd4108a}
+- {id: cmsis_dsp}
+- {id: device_init}
+- {id: emlib_iadc}
+- {id: emlib_prs}
+- {id: emlib_timer}
+- instance: [mikroe]
+  id: i2cspm
+- {id: iostream_retarget_stdio}
+- instance: [vcom]
+  id: iostream_usart
+- {id: printf}
+- {id: sl_system}
+define:
+- {name: DEBUG_EFM}
+ui_hints: {}
+
